@@ -1,0 +1,24 @@
+@Url = http://localhost:5276
+
+GET {{Metro_Line_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+POST {{Url}}/api/Stations
+Content-Type : application/json
+{
+  "StationName":"helwan",
+  "LineId":"1"
+}
+###
+POST {{Url}}/api/Lines
+Content-Type : application/json
+{
+  "LineName":"second",
+  "Color":"red"
+}
+###
+GET {{Url}}/api/Lines/1
+Accept: application/json
+###
+

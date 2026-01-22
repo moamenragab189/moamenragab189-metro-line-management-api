@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Asp.Net\\Metro_Line_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\services\\lines_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:services\\lines_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\services\\stations_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:services\\stations_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\data\\metro_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:data\\metro_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\data\\repositories\\stations_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:data\\repositories\\stations_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\data\\repositories\\lines_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:data\\repositories\\lines_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\controllers\\linescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:controllers\\linescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\data\\models\\metro_stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:data\\models\\metro_stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|d:\\c#\\asp.net\\metro_line_management\\data\\models\\metro_lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451038A0-C2FF-403C-92CB-7AAC6C338A4E}|Metro_Line_Management.csproj|solutionrelative:data\\models\\metro_lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Metro_DbContext.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Metro_DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Metro_DbContext.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Metro_DbContext.cs",
+              "RelativeToolTip": "Data\\Metro_DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:32:41.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lines_Service.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Services\\Lines_Service.cs",
+              "RelativeDocumentMoniker": "Services\\Lines_Service.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Services\\Lines_Service.cs",
+              "RelativeToolTip": "Services\\Lines_Service.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T20:05:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stations_Service.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Services\\Stations_Service.cs",
+              "RelativeDocumentMoniker": "Services\\Stations_Service.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Services\\Stations_Service.cs",
+              "RelativeToolTip": "Services\\Stations_Service.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:14:37.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T22:07:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T22:06:17.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stations_Repository.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Repositories\\Stations_Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Stations_Repository.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Repositories\\Stations_Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Stations_Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:45:20.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lines_Repository.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Repositories\\Lines_Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Lines_Repository.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Repositories\\Lines_Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Lines_Repository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:06:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StationsController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Controllers\\StationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StationsController.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Controllers\\StationsController.cs",
+              "RelativeToolTip": "Controllers\\StationsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:33:23.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinesController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Controllers\\LinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LinesController.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Controllers\\LinesController.cs",
+              "RelativeToolTip": "Controllers\\LinesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:19:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T19:58:01.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T19:52:35.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:59:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Metro_Lines.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Models\\Metro_Lines.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Metro_Lines.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Models\\Metro_Lines.cs",
+              "RelativeToolTip": "Data\\Models\\Metro_Lines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:21:28.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Metro_Stations.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Models\\Metro_Stations.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Metro_Stations.cs",
+              "ToolTip": "D:\\c#\\Asp.Net\\Metro_Line_Management\\Data\\Models\\Metro_Stations.cs",
+              "RelativeToolTip": "Data\\Models\\Metro_Stations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:23:25.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Metro_Line_Management.Controllers.LinesController",
+    "Method": "GetLines",
+    "RelativePath": "api/Lines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Metro_Line_Management.Controllers.LinesController",
+    "Method": "AddLine",
+    "RelativePath": "api/Lines",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "line",
+        "Type": "Metro_Line_Management.Data.Models.Metro_Lines",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Metro_Line_Management.Controllers.LinesController",
+    "Method": "GetLineWithStationsById",
+    "RelativePath": "api/Lines/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Metro_Line_Management.Controllers.StationsController",
+    "Method": "AddStation",
+    "RelativePath": "api/Stations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "station",
+        "Type": "Metro_Line_Management.Data.Models.Metro_Stations",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Metro_Line_Management.Controllers.StationsController",
+    "Method": "GetStationById",
+    "RelativePath": "api/Stations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Metro_Line_Management.Controllers.StationsController",
+    "Method": "GetStationsByLineId",
+    "RelativePath": "api/Stations/line/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
